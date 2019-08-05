@@ -1,1 +1,1 @@
-Helpers to get/set tll value.
+Scripts which allows to get/set TTL value.
